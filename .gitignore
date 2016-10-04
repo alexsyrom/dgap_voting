@@ -1,4 +1,0 @@
-venv/
-**/__pycache__/
-*.swp
-dgap_voting/local_settings.py
